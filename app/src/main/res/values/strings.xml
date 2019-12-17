@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP</string>
+    <string-array name="rules">
+        <item>Подл.</item>
+        <item>Сказ.</item>
+        <item>Втор.</item>
+    </string-array>
+</resources>
